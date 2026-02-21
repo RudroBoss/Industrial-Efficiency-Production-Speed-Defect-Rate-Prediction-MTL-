@@ -1,0 +1,2 @@
+# Industrial-Efficiency-Production-Speed-Defect-Rate-Prediction-MTL-
+Advanced multi-task learning model for industrial analytics with attention + residual connections. Simultaneously performs efficiency classification and regression for defect rate &amp; production speed. Uses Huber loss, balanced sampling, and optimized loss weights. Achieved 93.29% accuracy, R²=0.9236 (defect), R²=0.9812 (speed).
